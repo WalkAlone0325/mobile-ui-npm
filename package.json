@@ -1,0 +1,26 @@
+{
+  "name": "@walkalone0325/mobile-ui-npm",
+  "version": "0.0.1",
+  "description": "mobile-ui npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalkAlone0325/mobile-ui-npm.git"
+  },
+  "keywords": [
+    "mobile-ui",
+    "ui"
+  ],
+  "author": "独行",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalkAlone0325/mobile-ui-npm/issues"
+  },
+  "homepage": "https://github.com/WalkAlone0325/mobile-ui-npm#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
